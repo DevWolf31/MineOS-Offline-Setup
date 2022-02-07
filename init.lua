@@ -11,4 +11,5 @@ do
     invoke(addr, "close", handle)
     return load(buffer, "=" .. file, "bt", _G)
   end
+  loadfile("/EFI/Minified.lua")(loadfile)
 end
