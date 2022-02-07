@@ -1,1 +1,1 @@
-# MineOS-Offline-Setup
+# MineOS Offline Setup
