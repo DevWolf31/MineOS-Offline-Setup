@@ -2,7 +2,7 @@
 The purpose of this guide is install **MineOS** on **OpenComputers** without the need for internet.
 <br>
 ### Steps to install:
-- Clone the **MineOS** github repository on your pc / memory.
+- Clone the **MineOS** github repository on your pc / USB memory.
 - In the repository, delete the ``README.MD`` and ``.gitignore``, as well as the ``.git`` folder.
 - In the repository, create a folder called ``Users`` and inside another with your username.
 - In **Minecraft**, create and configure a tier 3 computer without the **OpenOS** floppy.
